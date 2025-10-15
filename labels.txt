@@ -1,0 +1,4 @@
+0 Abnormal Heartbeat Patients
+1 Myocardial Infarction Patients
+2 Normal Person
+3 Patient that have History of Myocardial Infraction
